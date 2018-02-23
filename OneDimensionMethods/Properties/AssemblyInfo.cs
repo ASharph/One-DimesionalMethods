@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("ScanMethod")]
+[assembly: AssemblyTitle("OneDimensionMethods")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ScanMethod")]
+[assembly: AssemblyProduct("OneDimensionMethods")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("fced2520-4733-431e-8a82-b2f80531af19")]
+[assembly: Guid("80dcf1c0-2cdf-4ea3-9fb9-b9e584c29182")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

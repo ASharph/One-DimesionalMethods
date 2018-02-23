@@ -1,6 +1,0 @@
-D:\Docs\VisualStud\ScanMethod\ScanMethod\bin\Debug\ScanMethod.exe.config
-D:\Docs\VisualStud\ScanMethod\ScanMethod\bin\Debug\ScanMethod.exe
-D:\Docs\VisualStud\ScanMethod\ScanMethod\bin\Debug\ScanMethod.pdb
-D:\Docs\VisualStud\ScanMethod\ScanMethod\obj\Debug\ScanMethod.csprojResolveAssemblyReference.cache
-D:\Docs\VisualStud\ScanMethod\ScanMethod\obj\Debug\ScanMethod.exe
-D:\Docs\VisualStud\ScanMethod\ScanMethod\obj\Debug\ScanMethod.pdb
