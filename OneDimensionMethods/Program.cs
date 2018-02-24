@@ -10,8 +10,9 @@ namespace OneDimensionMethods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(ScanMethod.FindMin(60, 150).ToString("0.0000"));
-            Console.WriteLine(DivideByHalfMethod.FindMin(60, 150).ToString("0.0000"));
+            Console.WriteLine($"Scan: {ScanMethod.FindMin(60, 150)}");
+            Console.WriteLine($"Divide By Half: { DivideByHalfMethod.FindMin(60, 150)}");
+            Console.WriteLine($"Golden Section: {GoldenSection.FindMin(60, 150)}");
         }
         public static double func(double x)
         {

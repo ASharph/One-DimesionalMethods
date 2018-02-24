@@ -4,3 +4,9 @@ D:\Docs\VisualStud\OneDimensionMethods\OneDimensionMethods\bin\Debug\OneDimensio
 D:\Docs\VisualStud\OneDimensionMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.csprojResolveAssemblyReference.cache
 D:\Docs\VisualStud\OneDimensionMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.exe
 D:\Docs\VisualStud\OneDimensionMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.pdb
+D:\Docs\GitHub\OneDimensionMethods\OneDimensionMethods\bin\Debug\OneDimensionMethods.exe.config
+D:\Docs\GitHub\OneDimensionMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.exe
+D:\Docs\GitHub\OneDimensionMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.pdb
+D:\Docs\GitHub\OneDimensionMethods\OneDimensionMethods\bin\Debug\OneDimensionMethods.exe
+D:\Docs\GitHub\OneDimensionMethods\OneDimensionMethods\bin\Debug\OneDimensionMethods.pdb
+D:\Docs\GitHub\OneDimensionMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.csprojResolveAssemblyReference.cache
