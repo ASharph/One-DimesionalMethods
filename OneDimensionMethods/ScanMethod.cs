@@ -17,8 +17,7 @@ namespace OneDimensionMethods
             double F = Program.func(X);
             double R;
 
-
-        M1: if (X < b)
+            while (X < b)
             {
                 X = X + h;
                 R = Program.func(X);
@@ -30,15 +29,10 @@ namespace OneDimensionMethods
                 }
 
                 iter++;
-
-                goto M1;
             }
-            else
-            {                
-                return Program.func(Xopt);
-            }
+            return Program.func(Xopt);
         }
-        static void ScanMethVisual()
+        public static void ScanMethVisual()
         {
             int iter = 0;
             double a = 60;
@@ -51,7 +45,7 @@ namespace OneDimensionMethods
 
             Console.WriteLine($"iter = {iter}\tX = {X.ToString("0.000")}\tF = {F.ToString("0.000")}");
 
-        M1: if (X < b)
+            while (X < b)
             {
                 X = X + h;
                 R = Program.func(X);
@@ -61,16 +55,11 @@ namespace OneDimensionMethods
                     F = R;
                     Xopt = X;
                 }
-
                 iter++;
 
                 Console.WriteLine($"iter = {iter}\tX = {X.ToString("0.000")}\tF = {R.ToString("0.000")}");
-                goto M1;
             }
-            else
-            {
-                Console.WriteLine($"\niter = {iter}\tXopt = {Xopt.ToString("0.000")}\tF = {Program.func(Xopt).ToString("0.000")}");
-            }
+            Console.WriteLine($"\niter = {iter}\tXopt = {Xopt.ToString("0.000")}\tF = {Program.func(Xopt).ToString("0.000")}");
         }
     }
 }

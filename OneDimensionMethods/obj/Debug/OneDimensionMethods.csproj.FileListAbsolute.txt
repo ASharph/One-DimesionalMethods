@@ -10,3 +10,10 @@ D:\Docs\GitHub\OneDimensionMethods\OneDimensionMethods\obj\Debug\OneDimensionMet
 D:\Docs\GitHub\OneDimensionMethods\OneDimensionMethods\bin\Debug\OneDimensionMethods.exe
 D:\Docs\GitHub\OneDimensionMethods\OneDimensionMethods\bin\Debug\OneDimensionMethods.pdb
 D:\Docs\GitHub\OneDimensionMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\Human\source\repos\ASharph\One-DimesionalMethods\OneDimensionMethods\bin\Debug\OneDimensionMethods.exe.config
+C:\Users\Human\source\repos\ASharph\One-DimesionalMethods\OneDimensionMethods\bin\Debug\OneDimensionMethods.exe
+C:\Users\Human\source\repos\ASharph\One-DimesionalMethods\OneDimensionMethods\bin\Debug\OneDimensionMethods.pdb
+C:\Users\Human\source\repos\ASharph\One-DimesionalMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.csprojAssemblyReference.cache
+C:\Users\Human\source\repos\ASharph\One-DimesionalMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Human\source\repos\ASharph\One-DimesionalMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.exe
+C:\Users\Human\source\repos\ASharph\One-DimesionalMethods\OneDimensionMethods\obj\Debug\OneDimensionMethods.pdb
